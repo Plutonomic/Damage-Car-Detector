@@ -1,3 +1,5 @@
 # Install required packages
 pip install --upgrade pip
-pip install tensorflow opencv-python streamlit numpy
+pip install streamlit tensorflow opencv-python numpy matplotlib seaborn
+
+#python version 3.10.x to 3.11.x is better
