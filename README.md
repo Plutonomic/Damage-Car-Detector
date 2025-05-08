@@ -121,4 +121,4 @@ dataset/
 ## 📄 License
 
 This project is licensed under the MIT License.
-#See the [LICENSE](LICENSE) file for details.
+#See the [LICENSE](https://github.com/Plutonomic/Damage-Car-Detector/blob/3a767c100703bbc2b3dc1298b04e6cb7a6f20e90/LICENSE.md) file for details.
