@@ -121,10 +121,4 @@ dataset/
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-```
-
----
-
-Let me know if you want to include badges, screenshots, or a custom logo.
-```
+#See the [LICENSE](LICENSE) file for details.
