@@ -114,7 +114,7 @@ dataset/
 
 ## 🧑‍💻 Author
 
-* Dann Berlin – [@yourgithub](https://github.com/yourgithub)
+* Dann Berlin – [@Plutonomic](https://github.com/Plutonomic)
 
 ---
 
