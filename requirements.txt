@@ -1,0 +1,3 @@
+# Install required packages
+pip install --upgrade pip
+pip install tensorflow opencv-python streamlit numpy
